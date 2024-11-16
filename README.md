@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Patel</h1>
-<h3 align="center">A passionate tech geek and CS major from India</h3>
+<h3 align="center">A passionate tech enthusiast and a CS major from India, blending machine learning expertise and software development to craft impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu-rage&label=Profile%20views&color=0e75b6&style=flat" alt="anu-rage" /> </p>
 
